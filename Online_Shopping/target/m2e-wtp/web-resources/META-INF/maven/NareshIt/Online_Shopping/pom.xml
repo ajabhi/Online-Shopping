@@ -8,6 +8,7 @@
   <name>Online_Shopping Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+  
   <!-- jstl -->
   <!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
 <dependency>
@@ -15,7 +16,7 @@
     <artifactId>jstl</artifactId>
     <version>1.2</version>
 </dependency>
-  
+ 
   
   <!-- https://mvnrepository.com/artifact/javax/javaee-api -->
 <dependency>
@@ -24,6 +25,8 @@
     <version>8.0</version>
     <scope>provided</scope>
 </dependency>
+
+
   <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
 <dependency>
     <groupId>org.springframework</groupId>
